@@ -2699,7 +2699,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 479448481}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 410bcb6628be66942a565ee27746de6b, type: 3}
+  m_Script: {fileID: 11500000, guid: 1119da05814dfbc459035da55b6cba1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   leaderboardCanvas: {fileID: 1457010874}
